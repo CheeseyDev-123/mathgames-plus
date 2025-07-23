@@ -14,6 +14,6 @@ A student-built unblocked games website focused on really cool games,flash games
 - Reversed – Game picker, content & feedback
 
 ## 🌐 Visit the Site  
-[https://sites.google.com/view/math-games-plus/home]
+Coming Soon:)
 
 Let the games begin! 🚀
